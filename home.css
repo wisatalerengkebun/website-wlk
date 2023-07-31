@@ -71,13 +71,6 @@ section {
   transition-delay: 1500ms;
 }
 
-.card-dewasa {
-  margin-left: 5rem;
-}
-.card-anak {
-  margin-left: 10rem;
-}
-
 #myBtn {
   background: transparent;
   border: none;
